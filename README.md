@@ -1,0 +1,9 @@
+- Hi, I'm Adia Cruz
+- I'm interested in art, music, and books
+- I'm currently learning more about the world of coding
+- I'm originally from the island of Guam
+- I'm a Sophomore in Computer Engineering
+- I chose my major because I was interested in seeing how to build codes to make functioning products
+- A fun fact about me is: It took me 20 years to like fish!
+- What do I want to learn from EE205? I want to learn and understand new coding languages
+- A book or movie I'd reccomend is: Everything, Everywhere, All at Once
